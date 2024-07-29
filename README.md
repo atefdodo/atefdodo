@@ -1,4 +1,5 @@
-👇
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+
 <p align="left"> <a href="https://eg.linkedin.com/in/moateflawyer" target="blank"><img src="https://img.shields.io/twitter/follow/atefdodo" alt="atefdodo" /></a>
  </p>
 
