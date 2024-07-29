@@ -3,7 +3,7 @@
  </p>
 
 - 👷‍♂️ Ex-intern at [Heuro labs](https://www.linkedin.com/company/heuro-labs)
-- 🔭 I’m currently working on [writing a interpreter for a new language.](https://github.com/hasssanezzz/nano-compiler)
+- 🔭 I’m currently working on [writing a interpreter for a new language.](https://github.com/atefdodo/nano-compiler)
 - 📫 How to reach me **atefdodo@gmail.com** (let's collab)
 - 💬 Ask me about **anything related to technologies I work with :)**
 - 🌱 I’m currently learning **Advanced Go**
@@ -47,8 +47,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasssanezzz&show_icons=true&locale=en&layout=compact" alt="hasssanezzz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atefdodo&show_icons=true&locale=en&layout=compact" alt="atefdodo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasssanezzz&show_icons=true&locale=en" alt="hasssanezzz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atefdodo&show_icons=true&locale=en" alt="atefdodo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasssanezzz&" alt="hasssanezzz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atefdodo&" alt="atefdodo" /></p>
